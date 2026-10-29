@@ -98,7 +98,7 @@ public class BlockingTaskTests extends BaseTest {
 	}
 @Test
 public void testThatAlwaysFails() {
-// Novo commit para testar action
+// Novo commit para testar action agora
     assertTrue(false);
 }
 }
